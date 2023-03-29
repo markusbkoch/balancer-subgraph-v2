@@ -1,0 +1,22 @@
+{
+  "stableAssets": [
+    {
+      "address": "0x9e5AAC1Ba1a2e6aEd6b32689DFcF62A509Ca96f3",
+      "symbol": "USDC"
+    },
+    {
+      "address": "0x3e7eF8f50246f725885102E8238CBba33F276747",
+      "symbol": "DAI"
+    },
+    {
+      "address": "0x9e1028F5F1D5eDE59748FFceE5532509976840E0",
+      "symbol": "USDT"
+    }
+  ],
+  "pricingAssets": [
+    {
+      "address": "0x44D627f900da8AdaC7561bD73aA745F132450798", 
+      "symbol": "WETH"
+    }
+  ]
+}
