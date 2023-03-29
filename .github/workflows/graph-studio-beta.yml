@@ -18,7 +18,7 @@ jobs:
       - name: Install
         run: yarn --frozen-lockfile
       - name: Assets
-        run: yarn generate-assets basegoerli
+        run: yarn generate-assets
       - name: Codegen
         run: yarn codegen
       - name: Build
