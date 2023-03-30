@@ -535,9 +535,12 @@ basegoerli:
   Vault:
     address: "0xBA12222222228d8Ba445958a75a0704d566BF2C8"
     startBlock: 2204979
-  WeightedPoolV3Factory:
-    address: "0x94f68b54191F62f781Fe8298A8A5Fa3ed772d227"
-    startBlock: 26389236
+  WeightedPoolV4Factory:
+    address: "0x94905e703fEAd7f0fD0eEe355D267eE909784e6d"
+    startBlock: 2206208
   TempLiquidityBootstrappingPoolFactory:
     address: "0xE8c7cE6Ee9Fc75196bC5317883bD73A0F4ac7Bc0"
     startBlock: 2206960
+  ComposableStablePoolV4Factory:
+    address: "0x56846673Ce0E89C076aF854548e325Bccde45dD2"
+    startBlock: 2206312
